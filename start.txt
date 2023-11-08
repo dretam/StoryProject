@@ -1,1 +1,11 @@
 Memulai project
+
+Cerita pertama
+
+Cerita kedua ini adalah baris kedua
+
+Cerita ketiga ini adalah baris ketiga
+
+Cerita keempat ini masih berlanjut. Sedikit tambahan
+
+Cerita kelima
