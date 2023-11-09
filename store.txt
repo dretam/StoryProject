@@ -1,3 +1,4 @@
 Store Index selesai
 Store Upsert selesai
+Store Detail Bug Fixed By Elbert selesai
 Store Detail Bug Fixed By Faizal selesai
