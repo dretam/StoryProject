@@ -1,3 +1,2 @@
 Buyer Index selesai
 Buyer Upsert selesai
-Buyer Delete selesai
