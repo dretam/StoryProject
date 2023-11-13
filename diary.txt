@@ -10,3 +10,4 @@ On going to probation program
 Oo yeah yuhuuuu fyall
 Now: Practicing Java & Spring
 Nov, 12th 2023: JS Practice
+Nov, 13th 2023: Rebase Practice (Git)
