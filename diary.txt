@@ -13,3 +13,4 @@ Nov, 12th 2023: JS Practice
 Nov, 13th 2023: Rebase Practice (Git)
 Nov, 14th 2023: Stash Practice (Git)
 Nov, 15th 2023: Tagging Practice (Git)
+Nov, 16th 2023 (1): Architechtures (Monolith & Microservices)
