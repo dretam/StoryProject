@@ -17,3 +17,4 @@ Nov, 16th 2023 (1): Architechtures (Monolith & Microservices)
 Nov, 16th 2023 (2): Design Pattern
 Nov, 16th 2023 (5): Design Pattern Cont. Part II
 Nov, 16th 2023 (6): Design Pattern Cont. Part III
+Nov, 17th 2023 (V-1.0.0.0): Test
