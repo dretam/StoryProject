@@ -15,3 +15,4 @@ Nov, 14th 2023: Stash Practice (Git)
 Nov, 15th 2023: Tagging Practice (Git)
 Nov, 16th 2023 (1): Architechtures (Monolith & Microservices)
 Nov, 16th 2023 (2): Design Pattern
+Nov, 16th 2023 (5): Design Pattern Cont. Part II
